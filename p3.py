@@ -20,6 +20,6 @@ while(loop > 600851470000):
         temp = loop
         print(temp)
         if(temp > max):
-            max = temp
+            max = # TEMP: 
 
 print(max)
